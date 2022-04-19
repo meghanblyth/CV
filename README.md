@@ -1,6 +1,6 @@
 ## <h1>Meghan Blyth</h1> 
 
-I am full-stack junior software developer and a graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering a high quality work performances on time. I am excited to transfer my creative, interpersonal and professional skills to the constantly evolving tech industry, where I can learn new languages and frameworks in order to improve and succeed as a developer. 
+I am full-stack junior software developer and a graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in the performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time. I am excited to transfer my creative, interpersonal and professional skills to the constantly evolving tech industry, where I can learn new languages and frameworks in order to improve and succeed as a developer. 
 
 
 
@@ -83,4 +83,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love to read 📚, sea swim 🏊‍♀️, rescue animals and fish of all kinds 🐈‍⬛ 🐠 🐇 . I love all things natural history 🌴 and astronomy 🌍 ! 
