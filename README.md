@@ -3,6 +3,8 @@
 I am full-stack junior software developer and a recent graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in the performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time. I am excited to transfer my creative, interpersonal and professional skills to the constantly evolving tech industry, where I can learn new languages and frameworks in order to improve and succeed as a developer. 
 
 <br/>
+[Skills](#skills) -- [Projects](#projects) -- [Education](#education) -- [Experience](#experience) -- [Qualifications](#qualifications) -- [Interests](#interests)
+<br/>
 
 <a href="https://github.com/meghanblyth/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical" />
@@ -55,7 +57,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Work Experience
+## Experience
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -83,12 +85,12 @@ _Your job title_
 - First class honors 
 - For my thesis, I created an iOS application which creates music from images and colours
 
-#### Other qualifications 
+#### Qualifications 
 
 I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
 I completed up to grade six in orchestral percussion, drum kit and piano. 
 I am also a qualified Zumba instructor. 
 
-## Hobbies
+## Interests
 
 Avid reader 📚, sea swimmer 🏊‍♀️, animal fosterer and rehabilitater 🐈‍⬛ 🐠 🐇 ... Keenly interested in all things natural history 🌴 and astronomy 🌍 ! 
