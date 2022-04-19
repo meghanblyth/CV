@@ -91,4 +91,4 @@ I am also a qualified Zumba instructor.
 
 ## Hobbies
 
-Avid reader 📚, sea swimmer 🏊‍♀️, rescuer and rehabilitater of animals and fish of all kinds 🐈‍⬛ 🐠 🐇 ... Keenly interested in all things natural history 🌴 and astronomy 🌍 ! 
+Avid reader 📚, sea swimmer 🏊‍♀️, animal fosterer and rehabilitater 🐈‍⬛ 🐠 🐇 ... Keenly interested in all things natural history 🌴 and astronomy 🌍 ! 
