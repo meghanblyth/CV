@@ -79,7 +79,9 @@ _Your job title_
 
 #### Other qualifications 
 
-During my childhood and adolocence, I completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD).  I also completed up to grade six in orchestral percussion, drum kit and piano. 
+I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
+I completed up to grade six in orchestral percussion, drum kit and piano. 
+I am also a qualified Zumba instructor. 
 
 ## Hobbies
 
