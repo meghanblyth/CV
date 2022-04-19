@@ -4,7 +4,13 @@ I am full-stack junior software developer and a recent graduate of the Makers Ac
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical&align="center">&nbsp)](https://github.com/meghanblyth/github-readme-stats)
+
+<a href="https://github.com/meghanblyth/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meghanblyth&repo=github-readme-stats&theme=radical" />
+</a>
+<a href="https://github.com/meghanblyth/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=meghanblyth&repo=convoychat&theme=radical" />
+</a>
 
 <br/>
 
