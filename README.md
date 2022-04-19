@@ -4,10 +4,10 @@ I am full-stack junior software developer and a recent graduate of the Makers Ac
 
 
 <a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=dracula" />
 </a>
 
 
