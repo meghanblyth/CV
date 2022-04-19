@@ -62,16 +62,15 @@ _Your job title_
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (December 2021 to April 2022)
+- An intensive 16 week software engineering program
+- Encourraging teamwork, problem solving and independent learning
+- TDD, Agile/XP, OOP, SRP 
+- Languages & frameworks : Ruby, Javascript, React, Node.js, Express, Sinatra 
+- Testing suites : RSpec, Jest, Cypress, React testing library 
+- Databases: PostgreSQL, MongoDB
 
-#### MTU (September 2000 to September 2021)
+#### Munster Technological University (September 2000 to September 2021)
 
 - MSc in Music and Technology 
 - First class honors 
