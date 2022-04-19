@@ -6,7 +6,7 @@ I am full-stack junior software developer and a graduate of the Makers Academy B
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical)](https://github.com/meghanblyth/github-readme-stats)
 
-
+<br/>
 
 ## Projects
 
@@ -16,9 +16,7 @@ I am full-stack junior software developer and a graduate of the Makers Academy B
 | **Acebook challenge** | A immitation of the facebook website | MERN - Mongodb, Express, React, Node.js |
 | **Makers bnb challenge** | A immitation of the airbnb website | PostgreSQL, Ruby, Rspec, CSS, HTML |
 
-
-
-
+<br/>
 
 ## Skills
 
