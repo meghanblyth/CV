@@ -83,4 +83,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-I love to read 📚, sea swim 🏊‍♀️, rescue animals and fish of all kinds 🐈‍⬛ 🐠 🐇 . I love all things natural history 🌴 and astronomy 🌍 ! 
+I love to read 📚, sea swim 🏊‍♀️, rescue and rehabilitate animals and fish of all kinds 🐈‍⬛ 🐠 🐇 ... I love all things natural history 🌴 and astronomy 🌍 ! 
