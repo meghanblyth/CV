@@ -61,17 +61,28 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Plan Be Movement Studio Ltd** (September 2016 to present)  
 _Company director, Creative director_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Creation of this company, which specialises in elite prevocational training for dancers and performers
 - Directorship and leadership of the company 
 - Producing, directing and choreographing productions and performances 
 - Hiring of contractors and management of teams
 - Communicating with industry professionals and parents or guardians of minors 
 - Teaching and coaching of students and apprentices 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Donna's Dance Studio** (2002 to 2015)  
+_In house choreographer and dance teacher, assistant producer_
 
-- Any experience relevent to software development
+- Coaching dance and performing arts 
+- Choreographing in house and free lance for events and productions 
+- Assiting in the production of events and performances 
+- Communicating with parents and guardians of minors 
+- Coaching of apprentices 
+
+**Angelina Ballerina Dance Academy** (2008 to 2016)  
+_CO-Director of Golden Boy Productions_
+
+- Co directorship of the company which held the 
+- Communicating with staff and team members  
+- Coaching of apprentices and trainees 
 
 <br/>
 
