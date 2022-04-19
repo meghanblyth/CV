@@ -80,7 +80,7 @@ _In house choreographer and dance teacher, assistant producer_
 **Angelina Ballerina Dance Academy** (2008 to 2016)  
 _CO-Director of Golden Boy Productions_
 
-- Co directorship of the company which held the 
+- Co directorship of the company which held the European licence to the Angelina Ballerina Dance Academy franchise
 - Communicating with staff and team members  
 - Coaching of apprentices and trainees 
 
