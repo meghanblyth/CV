@@ -7,7 +7,7 @@ I am full-stack junior software developer and a recent graduate of the Makers Ac
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=highcontrast" />
 </a>
 <a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=cobalt" />
 </a>
 
 
