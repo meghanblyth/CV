@@ -54,6 +54,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+<br/>
+
 ## Experience
 
 **Company Name** (start-date to end-date)  
@@ -65,6 +67,8 @@ _Your job title_
 _Your job title_
 
 - Any experience relevent to software development
+
+<br/>
 
 ## Education
 
@@ -82,11 +86,15 @@ _Your job title_
 - First class honors 
 - For my thesis, I created an iOS application which creates music from images and colours
 
+<br/>
+
 #### Qualifications 
 
 I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
 I completed up to grade six in orchestral percussion, drum kit and piano. 
 I am also a qualified Zumba instructor. 
+
+<br/>
 
 ## Interests
 
