@@ -13,7 +13,7 @@ I am full-stack junior software developer and a graduate of the Makers Academy B
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final engineering project - JUNO!**            | A front end web application emulating the classic game UNO | React, Javascript, Jest, CSS, Bulma, React testing library |
-| **Acebook challenge** | A webapp to do y. | Ruby              |
+| **Acebook challenge** | A immitation of the facebook website | MERN - Mongodb, Express, React, Node.js |
 
 
 
