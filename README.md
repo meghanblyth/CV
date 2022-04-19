@@ -26,33 +26,20 @@ I am full-stack junior software developer and a recent graduate of the Makers Ac
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Organisation and planning
 
--STAR
--What was the situation/task? (ST)
+My career to date has involved planning and executing productions involving large technical teams and performance casts of over one hundred children, teens and adults. I have produced many shows and events and have planned and arranged multiple performance trips for groups of over forty nationally and internationally. Planning productions and performance trips requires highly skilled organisation ability, as well as the ability to adapt to any unexpected changes and replan accordingly. 
 
--How was the skill used?
+#### Solution orientated 
 
--What did you do? (action)
+Thanks to over twenty years working in theatres, on productions and with dancers of all ages, I have developed a solution orientated approach to all challenges.  Working in performing arts comes with frequent unexpected challenges, which often require urgent attention and reconsiliation. I have become adept at dealing with issues in a calm, timely and solution orientated manner. 
 
--What was the result?
+#### Excellent communicator 
 
 
-#### This Skill
+#### Quick learner 
 
-- Experience
-- Achievements
-- Evidence (STAR)
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 <br/>
 
