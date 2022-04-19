@@ -71,11 +71,11 @@ _Your job title_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### MTU (September 2000 to September 2021)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MSc in Music and Technology 
+- First class honors 
+- For my thesis, I created an iOS application which creates music from images and colours
 
 #### Other qualifications 
 
