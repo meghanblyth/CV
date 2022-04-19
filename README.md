@@ -58,10 +58,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Plan Be Movement Studio Ltd** (September 2016 to present)  
+_Company director, Creative director_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
+- Directorship and leadership of the company 
+- Producing, directing and choreographing productions and performances 
+- Hiring of contractors and management of teams
+- Communicating with industry professionals and parents or guardians of minors 
+- Teaching and coaching of students and apprentices 
 
 **Company Name** (start-date to end-date)  
 _Your job title_
@@ -88,11 +93,12 @@ _Your job title_
 
 <br/>
 
-#### Qualifications 
+#### Additional Qualifications & Skills 
 
 I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
 I completed up to grade six in orchestral percussion, drum kit and piano. 
 I am also a qualified Zumba instructor. 
+I am self taught in video and music production. 
 
 <br/>
 
