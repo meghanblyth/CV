@@ -10,7 +10,7 @@ I am full-stack junior software developer and a graduate of the Makers Academy B
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
+| Project                       | Description       | Technologies       |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final engineering project - JUNO!**            | A front end web application emulating the classic game UNO | React, Javascript, Jest, CSS, Bulma, React testing library |
 | **Acebook challenge** | A immitation of the facebook website | MERN - Mongodb, Express, React, Node.js |
@@ -84,4 +84,4 @@ I am also a qualified Zumba instructor.
 
 ## Hobbies
 
-I love to read 📚, sea swim 🏊‍♀️, rescue and rehabilitate animals and fish of all kinds 🐈‍⬛ 🐠 🐇 ... I love all things natural history 🌴 and astronomy 🌍 ! 
+Avid reader 📚, sea swimmer 🏊‍♀️, rescuer and rehabilitater of animals and fish of all kinds 🐈‍⬛ 🐠 🐇 ... Keenly interested in all things natural history 🌴 and astronomy 🌍 ! 
