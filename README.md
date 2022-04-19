@@ -32,7 +32,7 @@ My career to date has involved planning and executing productions involving larg
 
 #### Solution orientated 
 
-Thanks to over twenty years working in theatres, on productions and with dancers of all ages, I have developed a solution orientated approach to all challenges.  Working in performing arts comes with frequent unexpected challenges, which often require urgent attention and reconsiliation. I have become adept at dealing with issues in a calm, timely and solution orientated manner. 
+Thanks to over twenty years working in theatres, on productions and in studios with performers of all ages, I have developed a solution orientated approach to all challenges.  Working in performing arts comes with frequent unexpected challenges, which often require urgent attention and reconsiliation. I have become adept at dealing with issues in a calm, timely and solution orientated manner. 
 
 #### Excellent communicator 
 
