@@ -77,9 +77,9 @@ _Your job title_
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Other qualifications 
 
-That in some arguable way make you a better software developer or well-rounded person
+During my childhood and adolocence, I completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD).  I also completed up to grade six in orchestral percussion, drum kit and piano. 
 
 ## Hobbies
 
