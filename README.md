@@ -37,10 +37,12 @@ Thanks to over twenty years working in theatres, on productions and in studios w
 
 #### Excellent communicator 
 
+Whether working with toddlers at a studio, performers at an event or technical teams at a theatre, having a career in the performing arts industry requires clear, consistent and positive communication. While exciting and wonderful, performing and rehearsing can sometimes be a high pressure environment, which requires open communication as well as organisation in order for everyone to acheive their best. I have developed excellent communicating skills during my years working in theatres, with students and with fellow colleagues. 
+
 
 #### Quick learner 
 
-
+Years of experience working on productions and in a studio setting have taught me that a quick mind can master any skill. From costume repair to music editing, there are no skills off limits when working against the clock in the performing arts industry. I have enjoyed adding to my skill set over the past eighteen months as I have embarked on a Masters degree and then the Makers Academy bootcamp. I have come to recognise that software development and performing arts have a lot of overlap, particularly when it comes to learning new skills quickly, and how important it is to take initiative and engage in self directed learning for both careers. 
 
 <br/>
 
