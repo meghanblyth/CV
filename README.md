@@ -69,7 +69,7 @@ _Your job title_
 
 ## Education
 
-#### Makers Academy (December 2021 to April 2022)
+#### Makers Academy, London (December 2021 to April 2022)
 - An intensive 16 week software engineering program
 - Encourraging teamwork, problem solving and independent learning
 - TDD, Agile/XP, OOP, SRP 
@@ -77,7 +77,7 @@ _Your job title_
 - Testing suites : RSpec, Jest, Cypress, React testing library 
 - Databases: PostgreSQL, MongoDB
 
-#### Munster Technological University (September 2000 to September 2021)
+#### Munster Technological University, Ireland (September 2000 to September 2021)
 
 - MSc in Music and Technology 
 - First class honors 
