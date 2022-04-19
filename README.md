@@ -3,7 +3,7 @@
 I am full-stack junior software developer and a graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering a high quality work performances on time. I am excited to transfer my creative, interpersonal and professional skills to the constantly evolving tech industry, where I can learn new languages and frameworks in order to improve and succeed as a developer. 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact)](https://github.com/meghanblyth/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=radical)](https://github.com/meghanblyth/github-readme-stats)
 
 ## Projects
 
