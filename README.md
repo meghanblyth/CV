@@ -18,11 +18,8 @@ I am full-stack junior software developer and a recent graduate of the Makers Ac
 
 <br/>
 
-<p align="centre">
-  <a href="https://github.com/meghanblyth/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=cobalt" />
-  </a>
-</p>
+
+<a href="#"><p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&locale=en" alt="meghanblyth" /></p></a>
 
 
 <br/>
