@@ -2,15 +2,27 @@
 
 I am full-stack junior software developer and a recent graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in the performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time. I am excited to transfer my creative, interpersonal and professional skills to the constantly evolving tech industry, where I can learn new languages and frameworks in order to improve and succeed as a developer. 
 
+<div>
+    <h3 align="center"> Technology I have worked with </h3>
+    <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/ruby/ruby-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/jest/jest-plain.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-plain-wordmark.svg" height="40" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/nodejs/nodejs-plain-wordmark.svg" height="40" width="40">
+    </p>
+   </div>
 
-<a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghanblyth&layout=compact&theme=cobalt" />
-</a>
 <br/>
-<a href="https://github.com/meghanblyth/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=cobalt" />
-</a>
 
+<p align="centre">
+  <a href="https://github.com/meghanblyth/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&theme=cobalt" />
+  </a>
+</p>
 
 
 <br/>
