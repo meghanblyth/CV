@@ -112,12 +112,12 @@ _CO-Director of Golden Boy Productions_
 #### Additional Qualifications & Skills 
 
 I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
+I am a qualified Zumba instructor. 
 I completed up to grade six in orchestral percussion, drum kit and piano. 
-I am also a qualified Zumba instructor. 
 I am self taught in video and music production. 
 
 <br/>
 
 ## Interests
 
-Avid reader 📚, sea swimmer 🏊‍♀️, animal fosterer and rehabilitater 🐈‍⬛ 🐠 🐇 ... Keenly interested in all things natural history 🌴 and astronomy 🌍 ! 
+Avid reader 📚, sea swimmer 🏊‍♀️, animal fosterer and rehabilitater 🐈‍⬛ 🐠 🐇 ... interested in all things natural history 🌴 and astronomy 🌍 ! 
