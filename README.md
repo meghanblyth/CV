@@ -109,7 +109,7 @@ _CO-Director of Golden Boy Productions_
 
 <br/>
 
-#### Additional Qualifications & Skills 
+## Additional Qualifications & Skills 
 
 I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
 I am a qualified Zumba instructor. 
