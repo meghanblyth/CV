@@ -77,7 +77,7 @@ Years of experience working on productions and in a studio setting have taught m
 ## Experience
 
 **Plan Be Movement Studio Ltd** (September 2016 to present)  
-_Company director, Creative director_
+_Founder, Director, Creative director_
 
 - Creation of this company, which specialises in elite prevocational training for dancers and performers
 - Directorship and leadership of the company 
