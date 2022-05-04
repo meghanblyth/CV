@@ -47,8 +47,7 @@ width="40" height="40"/>
 
 | Project                       | Description       | Technologies       |
 | ---------------------------- | ----------------- | ----------------- |
-| [Final engineering project - JUNO](https://github.com/meghanblyth/Juno_game)
-[www.junogame.com](www.junogame.com)| A front end web application emulating the classic game UNO | React, Javascript, Jest, CSS, Bulma, React testing library, Heroku |
+| [Final engineering project - JUNO](https://github.com/meghanblyth/Juno_game)[www.junogame.com](www.junogame.com)| A front end web application emulating the classic game UNO | React, Javascript, Jest, CSS, Bulma, React testing library, Heroku |
 | [Acebook challenge - MakerMate](https://github.com/meghanblyth/maker-mate) | A immitation of the facebook website | MERN - Mongodb, Express, React, Node.js |
 | [Makers bnb challenge](https://github.com/meghanblyth/Makersbnb) | A immitation of the airbnb website | PostgreSQL, Ruby, Rspec, CSS, HTML |
 
