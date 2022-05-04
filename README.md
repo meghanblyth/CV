@@ -135,4 +135,4 @@ _CO-Director of Golden Boy Productions_
 
 ## Interests
 
-Avid reader 📚, sea swimmer 🏊‍♀️, animal fosterer and rehabilitater 🐈‍⬛ 🐠 🐇 ... interested in all things natural history 🌴 and astronomy 🌍 ! 
+Avid reader 📚, sea swimmer 🏊‍♀️, lego enthusiast 🧱 , animal fosterer and rehabilitater 🐈‍⬛ 🐠 🐇 ... interested in all things natural history 🌴 and astronomy 🌍 ! 
