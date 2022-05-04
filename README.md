@@ -57,7 +57,7 @@ width="40" height="40"/>
 
 #### Organisation and planning
 
-My career to date has involved planning and executing productions involving large technical teams and performance casts of over one hundred children, teens and adults. I have produced many shows and events and have planned and arranged multiple performance trips for groups of over forty nationally and internationally. Planning productions and performance trips requires highly skilled organisation ability, as well as the ability to adapt to any unexpected changes and replan accordingly. 
+My career to date has involved planning and executing productions involving large technical teams and performance casts of over three hundred children, teens and adults. I have produced many shows and events, and have planned and arranged multiple performance trips for groups of over forty nationally and internationally. Planning productions and performance trips requires highly skilled organisational ability, as well as the ability to adapt to any unexpected changes and replan accordingly. 
 
 #### Solution orientated 
 
