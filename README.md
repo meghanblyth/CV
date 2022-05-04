@@ -1,6 +1,6 @@
 ## <h1>Meghan Blyth</h1> 
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Qualifications/volunteering](#qualifications/volunteering) | [Interests](#interests) |
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Additional](#additional) | [Interests](#interests) |
 
 I am full-stack junior software developer and a recent graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in the performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time. I am excited to transfer my creative, interpersonal and professional skills to the constantly evolving tech industry, where I can learn new languages and frameworks in order to improve and succeed as a developer. 
 
@@ -122,7 +122,7 @@ _CO-Director of Golden Boy Productions_
 
 <br/>
 
-## Qualifications/volunteering 
+## Additional 
 
 - I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
 - I am a qualified Zumba instructor. 
