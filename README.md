@@ -38,7 +38,7 @@ width="40" height="40"/>
 <br/>
 
 
-<a href="#"><p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&locale=en&theme=radical" alt="meghanblyth" /></p></a>
+<a href="#"><p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=meghanblyth&show_icons=true&locale=en&theme=cobalt" alt="meghanblyth" /></p></a>
 
 
 <br/>
