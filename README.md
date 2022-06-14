@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Additional](#additional) | [Interests](#interests) |
 
-I am driven and empathetic full-stack junior software developer and a recent graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time.  After much consideration, I have decided to move my career into tech to fulfil a lifelong ambition to pursue a second successful career where I can be part of the creative technology world. I am excited for an opportunity to transfer my skills to a career in the dynamic tech industry where I can excel as a software engineer.
+I am driven and empathetic full-stack junior software developer and a recent graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time.  After much consideration, I have chosen to move my career into tech to fulfil a lifelong ambition to pursue a second successful career where I can be part of the creative technology world. I am excited for an opportunity to transfer my skills to a career in the dynamic tech industry where I can excel as a software engineer.
 
 
 <div>
