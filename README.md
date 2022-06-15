@@ -120,6 +120,7 @@ _CO-Director of Golden Boy Productions_
 - MSc in Music and Technology 
 - First class honors 
 - For my thesis, I created an iOS application which creates music from images and colours
+- Languages & frameworks : Python, MatLab, Swift, Pure Data, Cabbage
 
 <br/>
 
