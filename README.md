@@ -131,8 +131,11 @@ _CO-Director of Golden Boy Productions_
 - I completed up to grade six in orchestral percussion, drum kit and piano. 
 - I am self taught in video and music production. 
 - I choreographed and orchestrated a flash mob in aid of Chernobyl Childrens Project.
-- I produced and choreographed a Lady Gaga tribute event to raise over €5,000 for Habitat for Humanity to build homes in Haiti. 
 
+#Voluntray Work
+
+- I produced and choreographed a Lady Gaga tribute event to raise over €5,000 for Habitat for Humanity to build homes in Haiti. 
+- Arranged and choreographed a flashmob in aid of Chernobyl's Children's fund. 
 <br/>
 
 ## Interests
