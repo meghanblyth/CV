@@ -126,16 +126,20 @@ _CO-Director of Golden Boy Productions_
 
 ## Additional 
 
-- I have completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
-- I am a qualified Zumba instructor. 
-- I completed up to grade six in orchestral percussion, drum kit and piano. 
-- I am self taught in video and music production. 
-- I choreographed and orchestrated a flash mob in aid of Chernobyl Childrens Project.
+- Completed up to Intermediate level in ballet, modern and completed several tap and jazz awards through the Imperial society of teachers of dance (ISTD). 
+- Qualified Zumba instructor. 
+- Completed up to grade six in orchestral percussion, drum kit and piano. 
+- Self taught in video and music production. 
 
-## Voluntray Work
+
+<br/>
+
+## Volunteering 
 
 - I produced and choreographed a Lady Gaga tribute event to raise over €5,000 for Habitat for Humanity to build homes in Haiti. 
 - Arranged and choreographed a flashmob in aid of Chernobyl's Children's fund. 
+
+
 <br/>
 
 ## Interests
