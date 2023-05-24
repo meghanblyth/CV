@@ -80,8 +80,8 @@ Years of experience working on productions and in a studio setting have taught m
 **Anthony Nolan** (2022 to present)  
 _Software Developer_
 
-- Working in an AGILE environment on a new project
-- Developing with React, Javascript, Typescript, C#, HTML, CSS, storybook, Figma and Azure. 
+- Working in an AGILE environment on a new project due to be launched in 2023
+- Developing with React, Javascript, Typescript, C#, HTML, CSS, storybook, Figma and Azure
 - Staff Forum representative on behalf of technology deparment 
 
 **Plan Be Movement Studio Ltd** (September 2016 to present)  
