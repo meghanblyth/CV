@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Additional](#additional) | [Interests](#interests) |
 
-I am driven and empathetic full-stack junior software developer and a recent graduate of the Makers Academy Bootcamp. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time.  After much consideration, I have chosen to move my career into tech to fulfil a lifelong ambition to pursue a second successful career where I can be part of the creative technology world. I am excited for an opportunity to transfer my skills to a career in the dynamic tech industry where I can excel as a software engineer.
+I am driven and empathetic full-stack software developer and graduate of the Makers Academy Bootcamp. I currently work for the Anthony Nolan Trust in Hampstead as a software developer. During my previous twenty year career in the performing arts industry, I have worked as a performer, choreographer, teacher, director and producer. Working in performing arts has allowed me to become a highly solution orientated, ambitious and organised person, who is accustomed to delivering high quality work performances on time.  After much consideration, in 2021 I chose to move my career into tech to fulfil a lifelong ambition to pursue a second successful career where I can be part of the creative technology world. I am excited for continued opportunities to transfer my skills to a career in the dynamic tech industry where I can excel as a software engineer.
 
 
 <div>
@@ -77,6 +77,13 @@ Years of experience working on productions and in a studio setting have taught m
 
 ## Experience
 
+**Anthony Nolan** (2022 to present)  
+_Software Developer_
+
+- Working in an AGILE environment on a new project
+- Developing with React, Javascript, Typescript, C#, HTML, CSS, storybook, Figma and Azure. 
+- Staff Forum representative on behalf of technology deparment 
+
 **Plan Be Movement Studio Ltd** (September 2016 to present)  
 _Founder, Director, Creative director_
 
@@ -95,13 +102,6 @@ _In house choreographer and dance teacher, assistant producer_
 - Assiting in the production of events and performances 
 - Communicating with parents and guardians of minors 
 - Coaching of apprentices 
-
-**Angelina Ballerina Dance Academy** (2008 to 2016)  
-_CO-Director of Golden Boy Productions_
-
-- Co directorship of the company which held the European licence to the Angelina Ballerina Dance Academy franchise
-- Communicating with staff and team members  
-- Coaching of apprentices and trainees 
 
 <br/>
 
